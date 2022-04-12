@@ -1,0 +1,1 @@
+This is a project where I build a simple website. Following instructions from the ODIN-PROJECT. 
