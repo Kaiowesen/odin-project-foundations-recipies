@@ -1,1 +1,1 @@
-This is a project where I build a simple website. Following instructions from the ODIN-PROJECT. 
+A completed project from the Odin Project foundation series. The instructions for the project can be found https://www.theodinproject.com/lessons/foundations-recipes
